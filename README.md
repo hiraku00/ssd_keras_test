@@ -140,4 +140,4 @@ $ python videotest_example.py
 ![sample4.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/67194/b755d3e0-ddc0-4f0f-eb4f-e8f0c8def572.gif)
 
 # In Japanese
-[Qiita]()
+[Qiita](https://qiita.com/hiraku00/items/6b89c3d54e278056df0a)
